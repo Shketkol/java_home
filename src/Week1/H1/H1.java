@@ -1,4 +1,4 @@
-package W1;
+package Week1.H1;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -14,7 +14,7 @@ import java.util.Scanner;
         результат:
         массив[3] = {0,5,3}*/
 
-public class W1 {
+public class H1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Чем запонить: ");

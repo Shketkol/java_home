@@ -1,6 +1,5 @@
-package W2;
+package Week1.H2;
 
-import java.util.Arrays;
 import java.util.Scanner;
         /*Напишите программу которая принимает строку и выдает различные данные о ней, такие как:
         1) Количество букв/символов в слове (с учетом без учета пробела )
@@ -27,7 +26,7 @@ import java.util.Scanner;
         */
 
 
-public class W2 {
+public class H2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите строку: ");
